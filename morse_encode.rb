@@ -33,4 +33,3 @@ end
 
 char = decode_char('.-')
 puts char
-
