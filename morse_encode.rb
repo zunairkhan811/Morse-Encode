@@ -1,4 +1,4 @@
-Alphabets = {
+ALPHABETS = {
   '.-' => 'a',
   '-...' => 'b',
   '-.-.' => 'c',
@@ -25,10 +25,10 @@ Alphabets = {
   '-..-' => 'x',
   '-.--' => 'y',
   '--..' => 'z'
-}
+}.freeze
 
 def decode_char(val)
-  Alphabets[val].upcase
+  ALPHABETS[val].upcase
 end
 
 char = decode_char('.-')
