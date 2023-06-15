@@ -33,3 +33,13 @@ end
 
 char = decode_char('.-')
 puts char
+
+def decode_word(word)
+  splitted = word.split
+  words = ''
+  splitted.each do |c|
+    words += decode_char(c)
+  end
+  words
+end
+puts decode_word('-- -.--')

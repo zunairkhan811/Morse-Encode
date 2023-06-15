@@ -114,9 +114,8 @@ You can deploy this project using: **Not available**
 
 👤 **Atif Zada**
 
-- GitHub: [](https://github.com/)
-- Twitter: [](https://twitter.com/)
-- LinkedIn: [](https://www.linkedin.com/in/)
+- GitHub: [@AtifZada](https://github.com/AtifZada)
+- LinkedIn: [@AtifZada](https://linkedin.com/in/AtifZada)
 
 ### 👤  Author 3
 
