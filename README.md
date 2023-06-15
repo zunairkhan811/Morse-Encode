@@ -121,9 +121,9 @@ You can deploy this project using: **Not available**
 
 👤 **Hasnat**
 
-- GitHub: [](https://github.com/)
-- Twitter: [](https://twitter.com/)
-- LinkedIn: [](https://www.linkedin.com/in/)
+- GitHub: [@hasnatali1947](https://github.com/hasnatali1947)
+- Twitter: [@hasnatking1947](https://twitter.com/hasnatking1947)
+- LinkedIn: [Hasnat ali](https://www.linkedin.com/feed/?trk=homepage-basic_google-sign-in-submit)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
